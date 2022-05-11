@@ -1,0 +1,24 @@
+
+*** These modified files were found in JOE when it aborted on Fri Jun 18 17:14:56 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/STEP_BY_STEP/src/main_without_schedule.py
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Mon Jun 21 15:53:12 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/STEP_BY_STEP/src/main.py
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
